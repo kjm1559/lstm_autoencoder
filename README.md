@@ -1,5 +1,7 @@
 [keras] Dataset Augmentation in Feature Space
 ===
+Tensorflow implementation is provided as the following <a herf='https://github.com/YeongHyeon/Sequence-Autoencoder'>link.</a>.
+
 ## Architecture
 ### Encoder
 <img src="./figures/encoder_model.png" width="100">  
